@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of swader/web3address.** Not for installation: use [Packagist](https://packagist.org/packages/swader/web3address) or the [upstream repository](https://github.com/Swader/flarum-web3address).
 
-**0** versions archived · Latest: [`v1.1.2`](https://github.com/flarchive/swader-web3address/tree/archive/v1.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**4** versions archived · Latest: [`v1.1.2`](https://github.com/flarchive/swader-web3address/tree/archive/v1.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2020-12-01 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/swader-web3address/tree/archive/v1.0) |
+| `v1.1` | 2020-12-02 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/swader-web3address/tree/archive/v1.1) |
+| `v1.1.1` | 2020-12-07 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/swader-web3address/tree/archive/v1.1.1) |
+| `v1.1.2` | 2020-12-07 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/swader-web3address/tree/archive/v1.1.2) |
 
 Catalog entry: [packages/swader-web3address.json](https://github.com/flarchive/archive-index/blob/main/packages/swader-web3address.json)
 
